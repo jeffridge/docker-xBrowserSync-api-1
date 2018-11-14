@@ -3,6 +3,7 @@
 ## Requirements
 
 - bash
+- wget
 - git
 - docker
 - docker-compose
